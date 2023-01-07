@@ -1,0 +1,7 @@
+{
+    "galaxy.meteor.com": {
+        "env": {
+            "MONGO_URL": "mongodb+srv://property-hunt:jjQ3roR1DHBEV9Ql@cluster0.nepipt3.mongodb.net/test"
+        }
+    }
+}
